@@ -46,5 +46,6 @@ git clone git@github.com:ValmirBP/mystore_website.git
 
 # website slides
 
+![ezgif com-animated-gif-maker](https://github.com/ValmirBP/mystore_website/assets/48802923/d081455e-3ca2-480f-ab5d-40630b0359ff)
 
 
